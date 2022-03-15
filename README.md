@@ -1,3 +1,3 @@
 # Hello World
 This is my fisrt git on GitHub
-tu dep trai 
+Today I want to share my code on GitHub, you can read and download if you want it.
